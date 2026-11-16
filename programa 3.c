@@ -1,6 +1,6 @@
 /*Gomez Hernandez Hugo Santiago
 practica 6
-Programa 2*/
+Programa 3*/
 
 #include <stdio.h>
 int main() {
